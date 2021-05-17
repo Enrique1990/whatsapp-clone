@@ -1,0 +1,10 @@
+npx-create-next-app whatsapp
+yarn dev as administrator
+yarn add material-ui
+start working in the sidebar 
+remove package-lock.json
+yarn
+En firebase tenmos que crear la base de datos con firestore, luego ir autentificacion y habilitar google email, luego en ajustes configuracion del projecto y en estos simbolos</> configurar tu ptoject, luego que termine copiar firebaseConfig json
+yarn add email-validator
+yarn add better-react-spinkit
+yarn add timeago-react
